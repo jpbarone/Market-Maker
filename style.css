@@ -16,6 +16,7 @@ h1 {
   align-items: center;
   border: 2px solid black;
   color: white;
+  border-radius: 20%;
 }
 
 .navbar {
@@ -62,11 +63,13 @@ a:hover {
   height: 300px;
   color: black;
   background-color: #191970;
+  border-radius: 20%;
 }
 
 .crystal {
   height: 300px;
   width: 400px;
+  border-radius: 20%
 }
 
 .odds {
